@@ -1,0 +1,15 @@
+Produto 0:
+Nome: Creatina
+Quantidade: 5
+Preço Unitário: R$80,00
+--------------------------
+Produto 1:
+Nome: Bcaa
+Quantidade: 10
+Preço Unitário: R$70,00
+--------------------------
+Produto 2:
+Nome: Whey
+Quantidade: 2
+Preço Unitário: R$120,00
+--------------------------
